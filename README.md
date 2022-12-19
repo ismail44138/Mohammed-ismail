@@ -1,12 +1,12 @@
 # Mohammed-ismail
+[![MasterHead](https://github.com/ismail44138/Mohammed-ismail/blob/main/0_cPrF_XMe7U6atYgM.gif)
 <h1 align="center">Hi 👋, I'm Mohammed ismail</h1>
 <h3 align="center">“The goal is to turn data into information, and information into insight.”</h3>
 
-<img align="right" alt="coding" width="600" src="[https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif]">
+<img align="right" alt="coding" width="600" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail44138&label=Profile%20views&color=0e75b6&style=flat" alt="ismail44138" /> </p>
 
-- 📫 How to reach me **ismail44138@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
