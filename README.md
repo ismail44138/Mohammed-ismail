@@ -1,7 +1,12 @@
-# Mohammed-ismail
+
 ![MasterHead](https://github.com/ismail44138/Mohammed-ismail/blob/main/0_cPrF_XMe7U6atYgM.gif)
 <h1 align="center">Hi 👋, I'm Mohammed ismail</h1>
 <h3 align="center">“The goal is to turn data into information, and information into insight.”</h3>
+
+-  I am a Data enthusiast and a self taught Data Analyst.
+
+- 📫 How to reach me **[Linkedin -@ismail44138](https://www.linkedin.com/in/ismail44138/)**
+
 
 <img align="right" alt="coding" width="325" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
